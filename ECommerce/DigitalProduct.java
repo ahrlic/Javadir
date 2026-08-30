@@ -1,10 +1,4 @@
-/*
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Amal Ibrahim
-	 * Due Date: week 9
-	 * Modified: 03/04/2025
-	 * Description: Digital Product derived class - Lab 05
-	 */
+
 
 public class DigitalProduct extends Product {
 
