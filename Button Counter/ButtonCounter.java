@@ -1,13 +1,4 @@
 
-
-/**
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Amal Ibrahim
-	 * Due Date: week 2
-	 * Modified: 01/06/24
-	 * Description: button counter object  
-	 */
-
 /**
  * Button Counter class object
  * 
