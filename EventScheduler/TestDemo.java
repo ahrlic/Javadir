@@ -1,10 +1,4 @@
-/**
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Amal Ibrahim
-	 * Due Date: week 4
-	 * Modified: 01/20/24
-	 * Description: Driver class for EventSchedule
-	 */
+
 
 
 /**
