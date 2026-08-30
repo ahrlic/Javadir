@@ -1,11 +1,3 @@
-/*
- * Student Name: Ariana Hrlic
- * Lab Professor: Sara Khan
- * Due Date: November 24/2024
- * Modified: November 011/2024
- * Description: Driver class for battery checker assignment
- */ 
-
 
 import java.util.Scanner;
 
