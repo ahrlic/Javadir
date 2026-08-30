@@ -1,10 +1,3 @@
-/*
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Amal Ibrahim
-	 * Due Date: week 9
-	 * Modified: 03/04/2025
-	 * Description: ECommerce display Class for Product, PhysicalProduct, DigitalProduct - Lab 05
-	 */
 
 public class ECommerce {
 	
