@@ -1,10 +1,3 @@
-/*
- * Student Name: Ariana Hrlic
- * Lab Professor: Sara Khan
- * Due Date: November 24/2024
- * Modified: November 11/2024
- * Description: Battery Tolerance Checker
- */ 
 
 public class BatteryChecker {
 
