@@ -1,11 +1,3 @@
-/*
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Amal Ibrahim
-	 * Due Date: week 9
-	 * Modified: 03/04/2025
-	 * Description: Physical Product Derived class - Lab 05
-	 */
-
 
 public class PhysicalProduct extends Product {
 
