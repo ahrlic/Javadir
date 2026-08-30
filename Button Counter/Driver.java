@@ -1,12 +1,5 @@
 
 import java.util.Scanner;
-/**
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Amal Ibrahim
-	 * Due Date: week 2
-	 * Modified: 01/06/24
-	 * Description: driver for button counter class
-	 */
 
 /**
  * Driver class for lab1, ButtonCounter 
