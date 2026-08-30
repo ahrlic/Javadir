@@ -1,10 +1,3 @@
-/**
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Amal Ibrahim
-	 * Due Date: week 5
-	 * Modified: 03/02/25
-	 * Description: purchases Test class 
-	 */
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.Assert;
