@@ -1,11 +1,4 @@
-/*
- * Student Name: Ariana Hrlic
- * Lab Professor: Sara Khan
- * Due Date: November 24/2024
- * Modified: November 07/2024
- * Description: Battery Object class Assignment 2
- */ 
- 
+
  
 /*
  *  This class models batteries with fields for diameter and height (in mm)
