@@ -1,11 +1,3 @@
-// TODO: Add missing comments
-/*
-	 * Student Name: Ariana Hrlic
-	 * Lab Professor: Sara Khan
-	 * Due Date: End of lab class
-	 * Modified: November 11/24
-	 * Description: modify array
-	 */
 public class ArrayModifier {
 	
 	private int[] values;
