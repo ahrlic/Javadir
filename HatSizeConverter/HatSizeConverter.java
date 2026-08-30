@@ -1,11 +1,4 @@
 // To Do: File Comment Header
-/*
- * Student Name: Ariana Hrlic
- * Lab Professor: Sara Khan
- * Due Date: November 06/2024
- * Modified: November 06/2024
- * Description: Hat size converter
- */ 
 
 // To Do: Programmer Comments throughout
 public class HatSizeConverter {
